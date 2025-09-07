@@ -1,0 +1,8 @@
+streamlit==1.32.0
+googletrans==4.0.0-rc1
+gtts==2.5.1
+SpeechRecognition==3.10.1
+pytesseract==0.3.10
+Pillow==10.2.0
+language-tool-python==2.7.1
+streamlit-cropper==0.1.3

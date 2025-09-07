@@ -29,7 +29,7 @@ Vocalite is a Streamlit-powered, all-in-one multilingual assistant that blends t
 
 After installing Tesseract, if it’s not in your system PATH, set the executable path in the app:
 ```python
-# In app (1).py
+# In app.py
 # pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 ```
 Uncomment and adjust the path if needed.

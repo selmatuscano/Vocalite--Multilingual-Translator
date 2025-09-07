@@ -11,8 +11,6 @@ import datetime
 import language_tool_python  # For grammar checking
 from streamlit_cropper import st_cropper  # For cropping images
 
-# ---- If Tesseract is not in PATH, set it manually ----
-# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Initialize translator and grammar tool
 translator = Translator()

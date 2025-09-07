@@ -42,7 +42,7 @@ Note (Windows microphone): You may need `PyAudio` for microphone input.
 ## 🚀 Quick Start
 1) Clone the repo
 ```bash
-git clone https://github.com/<your-username>/Vocalite--Multilingual-Translator.git
+git clone https://github.com/<selmatuscano>/Vocalite--Multilingual-Translator.git
 cd Vocalite--Multilingual-Translator
 ```
 

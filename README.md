@@ -80,20 +80,6 @@ streamlit run "app.py"
 
 ---
 
-## 🖼 Screenshots
-> Add screenshots to showcase the UI and features.
-
-- Main UI
-- OCR and Cropper
-- Translation + TTS
-
-You can store images in a `docs/` folder and reference them:
-```markdown
-![Vocalite — Main UI](docs/main-ui.png)
-```
-
----
-
 ## 🔧 Troubleshooting
 - "OCR Error" or no text extracted:
   - Ensure Tesseract is installed and accessible in PATH
@@ -115,8 +101,3 @@ You can store images in a `docs/` folder and reference them:
 - Text-to-Speech: `gTTS`
 - Grammar: `language_tool_python`
 - Image: `Pillow`, `streamlit-cropper`
-
----
-
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for details.
